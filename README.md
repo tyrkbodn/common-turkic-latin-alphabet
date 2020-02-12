@@ -1,5 +1,4 @@
-# udacity-nd188-201911
-Turkic Study Group for Udacity-Bertelsmann AI
+# Common Turkic Latin Alphabet
 
 ## Languages
 - English [stan1293](https://glottolog.org/resource/languoid/id/stan1293)
